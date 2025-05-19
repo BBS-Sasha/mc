@@ -2,7 +2,7 @@ local URL = "https://discord.com/api/webhooks/1374004634955415633/AqDSwuSMUs_mOE
 
 function webhook(msg)
     data = '{"content": "', msg, '","username":"Pontifex","avatar_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coat_of_Arms_of_the_Holy_See_%28red%29.svg/800px-Coat_of_Arms_of_the_Holy_See_%28red%29.svg.png}"'
-
+	print(data)
     headers = {}
     headers["Content-Type"] = "application/json"
 
