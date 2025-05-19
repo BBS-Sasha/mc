@@ -10,3 +10,7 @@ function webhook(msg)
 end
 
 webhook("Test message")
+repeat
+    event, url, err = os.pullEvent("http_failure")
+until url == URL
+print("The URL " .. url .. " could not be reached: " .. err)
