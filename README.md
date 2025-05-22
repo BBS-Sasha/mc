@@ -1,5 +1,5 @@
 ## BBS-Sasha's Repository
-### For the uploading of Official goverment documents and Personal Letters towards His Majesty The King's *Epic Minecraft Server* 
+### For the uploading of Official Pontifical documents and Personal Letters towards His Majesty The King's *Epic Minecraft Server* 
 <br>
 <hr>
 <br>
